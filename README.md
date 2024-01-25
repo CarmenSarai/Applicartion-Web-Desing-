@@ -6,5 +6,5 @@
 
 
 ## Informacion del curso
-- **Nombre del curso:** Diseño de Aplicaciones Web
-- **Maestro:** Julio Cesar Mendoza
+- **Nombre del curso:** Diseño Aplicaciones Web
+- **Maestro:** Julio Cesar Mendoza 
